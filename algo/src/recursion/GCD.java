@@ -33,7 +33,7 @@ import java.util.List;
 	
 **/
 
-public Class GCD
+public class GCD
 {
 
 @Test
@@ -67,4 +67,4 @@ private long gcd1(Long a, Long b)
   return gcd;
 }
 }
-}
+
